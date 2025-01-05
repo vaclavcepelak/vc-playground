@@ -1,0 +1,6 @@
+datasets
+evaluate
+notebook
+plotly
+torch
+"transformers[torch]"
